@@ -1,0 +1,39 @@
+.banner{
+    background-color: #6d6875;
+    color: white;
+    height: 12.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.left{
+    background-color: #b5838d;
+    color: white;
+}
+
+footer{
+    background-color: #6d6875;
+    color: white;
+}
+
+.top{
+    background-color: #e5989b;
+    color: white;
+}
+
+.content{
+    background-color: #ffcad4;
+    height: 18.75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.photo1{
+    background-color: #ffb4a2;
+}
+
+.photo2{
+    background-color: #e5989b;
+}
