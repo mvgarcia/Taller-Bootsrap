@@ -25,6 +25,7 @@ footer{
 .content{
     background-color: #ffcad4;
     height: 18.75rem;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
