@@ -7,7 +7,7 @@ let filtered = (b)=> b.filter(b=>{return b.price.amount>10000});
 fs.writeFileSync('filtered-products-ecommerce.json',JSON.stringify(filtered(obj,null,2)))
 
 //console.log(obj);
-console.log(filtered(obj))
+//console.log(filtered(obj))
 
 
 
