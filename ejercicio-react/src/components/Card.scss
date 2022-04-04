@@ -1,0 +1,12 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0.5rem;
+  
+    &-img {
+      width: 10rem;
+    }
+  }
